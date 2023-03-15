@@ -1,5 +1,9 @@
 [
   {
+    "package": "armspp",
+    "oncran": true
+  },
+  {
     "package": "WoodburyMatrix",
     "oncran": true
   }

@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "armspp"]
+	path = armspp
+	url = https://github.com/mbertolacci/armspp
+	shallow = true
+	registered = true
 [submodule "WoodburyMatrix"]
 	path = WoodburyMatrix
 	url = https://github.com/mbertolacci/woodburymatrix
