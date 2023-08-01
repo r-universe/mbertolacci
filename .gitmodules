@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "armspp"]
-	path = armspp
-	url = https://github.com/mbertolacci/armspp
 [submodule "WoodburyMatrix"]
 	path = WoodburyMatrix
 	url = https://github.com/mbertolacci/woodburymatrix
+[submodule "armspp"]
+	path = armspp
+	url = https://github.com/mbertolacci/armspp
